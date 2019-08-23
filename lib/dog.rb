@@ -1,5 +1,5 @@
 Class dog 
-  self.authenticate_or_request_w
+end 
 
 def bark 
   puts "woof"
